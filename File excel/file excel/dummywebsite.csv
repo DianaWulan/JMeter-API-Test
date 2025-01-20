@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1735545555774,6,homepage,200,OK,Thread Group 1-1,text,true,,209,116,1,1,http://localhost:5000/,6,0,2
+1735545555782,9,login,200,OK,Thread Group 1-1,text,true,,226,233,1,1,http://localhost:5000/login,9,0,1
+1735545555793,172,add user,201,CREATED,Thread Group 1-1,text,true,,212,249,1,1,http://localhost:5000/add_user,171,0,2
